@@ -2,8 +2,8 @@
 // https://docs.swift.org/swift-book
 
 public class HelloTestKit {
-    public init() {}
-
+    public init() {
+    }
 
     public func hello() -> String {
         return "Hello, World!"
