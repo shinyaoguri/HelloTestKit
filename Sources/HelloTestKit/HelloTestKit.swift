@@ -1,7 +1,7 @@
 // The Swift Programming Language
 // https://docs.swift.org/swift-book
 
-class HelloTestKit {
+public class HelloTestKit {
     func hello() -> String {
         return "Hello, World!"
     }
