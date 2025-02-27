@@ -2,6 +2,9 @@
 // https://docs.swift.org/swift-book
 
 public class HelloTestKit {
+    public init() {}
+
+
     func hello() -> String {
         return "Hello, World!"
     }
