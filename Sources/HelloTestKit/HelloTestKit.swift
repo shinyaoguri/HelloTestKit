@@ -5,11 +5,11 @@ public class HelloTestKit {
     public init() {}
 
 
-    func hello() -> String {
+    public func hello() -> String {
         return "Hello, World!"
     }
 
-    func hello(name: String) -> String {
+    public func hello(name: String) -> String {
         return "Hello, \(name)!"
     }
 }
