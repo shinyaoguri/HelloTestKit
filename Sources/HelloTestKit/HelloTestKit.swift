@@ -1,10 +1,7 @@
 // The Swift Programming Language
 // https://docs.swift.org/swift-book
 
-public class HelloTestKit {
-    public init() {
-    }
-
+public struct HelloTestKit {
     public func hello() -> String {
         return "Hello, World!"
     }
