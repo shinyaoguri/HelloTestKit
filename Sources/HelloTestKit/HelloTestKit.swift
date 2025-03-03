@@ -2,6 +2,11 @@
 // https://docs.swift.org/swift-book
 
 public struct HelloTestKit {
+
+    public init() {
+        print("HelloTestKit initialized")
+    }
+
     public func hello() -> String {
         return "Hello, World!"
     }
